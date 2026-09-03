@@ -7,3 +7,5 @@ Persistent namespace: https://w3id.org/digibat
 Status: in preparation. No release yet.
 
 Maintainers: Jingyu Feng (@Jingyu2020) · Contact: digibat@imperial.ac.uk
+
+Licence to be confirmed
