@@ -22,6 +22,5 @@ Documentation and serialisations: https://<ORG>.github.io/digibat-ontology/
 
 Maintainers:
 - Jingyu Feng ([Jingyu2020](https://github.com/Jingyu2020))
-- <SECOND MAINTAINER> (<GITHUB USERNAME>)
 
 Contact: <group email>
